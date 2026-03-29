@@ -153,8 +153,9 @@ TrainingArguments(
 
 ## Write-up
 
-Full article on [Medium](https://medium.com/@ottneel/fine-tuning-a-causal-language-model-building-a-question-completion-agent-e2d86716022b)
-LinkedIn post: [link]
+Full article on [Medium](https://medium.com/@ottneel/fine-tuning-a-causal-language-model-building-a-question-completion-agent-e2d86716022b),
+
+[LinkedIn](https://www.linkedin.com/posts/othniel-mejabi-4a0922123_machinelearning-nlp-huggingface-share-7444122746306875392-1Muc?utm_source=share&utm_medium=member_android&rcm=ACoAAB6SDjgBHJ6L8Pa8nkRfY-VKm4G-z-QAAMc) post
 
 ---
 
